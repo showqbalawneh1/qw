@@ -1,6 +1,7 @@
 body{
     background-color: azure;
     font-style: inherit;
+    backface-visibility: initial;
 }
 h4{
     font-size: x-large;
